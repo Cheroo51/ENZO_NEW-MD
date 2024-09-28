@@ -9,7 +9,7 @@ const s = require(__dirname + "/../set");
 const more = String.fromCharCode(8206)
 const readmore = more.repeat(4001)
 
-zokou({ nomCom: "popkid", categorie: "General" }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "enzo", categorie: "General" }, async (dest, zk, commandeOptions) => {
     let { ms, repondre ,prefixe,nomAuteurMessage,mybotpic} = commandeOptions;
     let { cm } = require(__dirname + "/../framework//zokou");
     var coms = {};
@@ -38,19 +38,19 @@ const date = moment().format('DD/MM/YYYY');
 *𝐇𝐞𝐲 𝐘𝐨𝐮?* 
 *𝐅𝐨𝐫 𝐮𝐩𝐝𝐚𝐭𝐞𝐬 𝐅𝐨𝐥𝐥𝐨𝐰;*
 *Whatsapp channel*
-> https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l
->https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l
+> https://whatsapp.com/channel/0029VajJTJp2f3ELCm8FN50D
+>https://whatsapp.com/channel/0029VajJTJp2f3ELCm8FN50D
 
 *Youtube*
 > https://www.youtube.com/wemacomic
 
 *For more info*
-> https://github.com/Popkid-md/TRIPPY
->https://github.com/Popkid-md/TRIPPY
+> https://github.com/Cheroo51/ENZO_NEW-MD
+>https://github.com/Cheroo51/ENZO_NEW-MD
   `;
     
 let menuMsg = `
-> ©POPKID MD
+> ©ENZO MD
 `;
 
    var lien = mybotpic();
