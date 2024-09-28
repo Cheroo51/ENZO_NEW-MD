@@ -1,9 +1,9 @@
 </h1> 
-<p align="center">POPKID MD V4.0.0
+<p align="center">ENZO MD V4.0.0
  
- <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=POPKID MD BOT +WHATSAPP; MULTI+SERVICE+REVOLUTIONIZES;CREATE+BY+POPKID+TECH;BOT DATED+06.6.2024" alt="Typing SVG" /></a>
- <a href="https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l">
- <img alt="POPKIDS BUG BOT" height="300" src="https://i.ibb.co/BNvstq2/IMG-20240916-WA0016.jpg">
+ <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=ENZO MD BOT +WHATSAPP; MULTI+SERVICE+REVOLUTIONIZES;CREATE+BY+ENZO+TECH;BOT DATED+06.6.2024" alt="Typing SVG" /></a>
+ <a href="https://whatsapp.com/channel/0029VajJTJp2f3ELCm8FN50D">
+ <img alt="ENZO BUG BOT" height="300" src="https://i.ibb.co/BNvstq2/IMG-20240916-WA0016.jpg">
   
 </h1> 
 <p align="center">𝚒𝚗𝚝𝚛𝚘𝚍𝚞𝚌𝚒𝚗𝚐<b> POPKID MD </b>, 𝚊 𝚙𝚘𝚠𝚎𝚛𝚏𝚞𝚕 𝚠𝚊 𝚋𝚘𝚝 </p>
@@ -59,12 +59,12 @@
 
 
 <a
-      href='https://dashboard.heroku.com/new?template=https://github.com/Popkid-md/TRIPPY/tree/main' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+      href='https://dashboard.heroku.com/new?template=https://github.com/Cheroo51/ENZO_NEW-MD/tree/main' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 </a></p>
 - <br>
-<a href='https://popkid-new-sessions.onrender.com' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Get-Session_ID-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
+<a href='https://enzo-md-sessions-generator.onrender.com' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Get-Session_ID-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
 
 
 
@@ -79,7 +79,7 @@
 
 <table>
   <tr>
-    <td>POPKID TECH</td>
+    <td>ENZO TECH</td>
     <td>𝚠𝚊 𝚌𝚑𝚊𝚗𝚗𝚎𝚕</td>
   </tr>
   <tr>
@@ -105,7 +105,7 @@
 
 
 
- *POPKID MD BEST WHATSAPP BOT*
+ *ENZO MD BEST WHATSAPP BOT*
 
 
 
@@ -113,7 +113,7 @@
 
 
 
-*𝙽𝚘𝚝𝚎* :*Popkid 𝚖𝚍 𝚒𝚜 𝚜𝚊𝚏𝚎 𝚘𝚗 𝚑𝚎𝚛𝚘𝚔𝚞 𝚌𝚘𝚗𝚝𝚊𝚌𝚝 𝚘𝚠𝚗𝚎𝚛 𝚏𝚘𝚛 𝚖𝚘𝚛𝚎 𝚒𝚗𝚏𝚘*
+*𝙽𝚘𝚝𝚎* :*ENZO 𝚖𝚍 𝚒𝚜 𝚜𝚊𝚏𝚎 𝚘𝚗 𝚑𝚎𝚛𝚘𝚔𝚞 𝚌𝚘𝚗𝚝𝚊𝚌𝚝 𝚘𝚠𝚗𝚎𝚛 𝚏𝚘𝚛 𝚖𝚘𝚛𝚎 𝚒𝚗𝚏𝚘*
 
-+254111385747
+
 
