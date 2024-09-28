@@ -6,7 +6,7 @@
  <img alt="ENZO BUG BOT" height="300" src="https://i.ibb.co/BNvstq2/IMG-20240916-WA0016.jpg">
   
 </h1> 
-<p align="center">𝚒𝚗𝚝𝚛𝚘𝚍𝚞𝚌𝚒𝚗𝚐<b> POPKID MD </b>, 𝚊 𝚙𝚘𝚠𝚎𝚛𝚏𝚞𝚕 𝚠𝚊 𝚋𝚘𝚝 </p>
+<p align="center">𝚒𝚗𝚝𝚛𝚘𝚍𝚞𝚌𝚒𝚗𝚐<b> ENZO MD </b>, 𝚊 𝚙𝚘𝚠𝚎𝚛𝚏𝚞𝚕 𝚠𝚊 𝚋𝚘𝚝 </p>
 
 
   <div align="center">
@@ -26,7 +26,7 @@
 
 
 
-  **HOW TO DEPLOY POPKID MD V𝟒**
+  **HOW TO DEPLOY ENZO MD V𝟒☀️✍️**
 
  
 
