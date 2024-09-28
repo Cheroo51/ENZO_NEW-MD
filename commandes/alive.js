@@ -73,8 +73,8 @@ else {
     } else {
         if(!superUser) { repondre("POPKID MD") ; return};
 
-      await   repondre("*https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l");
-         repondre("popkid 𝐍𝐞𝐯𝐞𝐫 𝐒𝐥𝐞𝐞𝐩. 𝐌𝐚𝐲𝐛𝐞 𝐲𝐨𝐮😅.")
+      await   repondre("*https://whatsapp.com/channel/0029VajJTJp2f3ELCm8FN50D");
+         repondre("enzo 𝐍𝐞𝐯𝐞𝐫 𝐒𝐥𝐞𝐞𝐩. 𝐌𝐚𝐲𝐛𝐞 𝐲𝐨𝐮😅.")
      }
  } else {
 
