@@ -8,7 +8,7 @@ Created By POPKID_TECH
 Don't claim, okey 
 */
 
-zokou({nomCom:"gpt4",reaction:"📡",categorie:"IA"},async(dest,zk,commandeOptions)=>{
+zokou({nomCom:"gpt4",reaction:"☀️",categorie:"IA"},async(dest,zk,commandeOptions)=>{
 
   const {repondre,ms,arg}=commandeOptions;
   
